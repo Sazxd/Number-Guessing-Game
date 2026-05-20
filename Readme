@@ -1,1 +1,29 @@
-The "Guessing Game" is a number guessing game. The computer will choose a number from 1-100 and you have to guess the number in 10 attemps. Good Luck!
+--Number Guessing Game--
+A simple command-line game written in Java where you try to guess a randomly chosen number between 1 and 100.
+
+How It Works:
+The computer picks a secret number between 1 and 100.
+You have 10 attempts to guess it.
+After each guess, you get a hint if you are close or far away from your number.
+
+
+**How to Run**
+# 1. Clone the repository
+git clone "https://github.com/Sazxd/number-guessing-game.git"
+
+# 2. Go into the folder
+cd number-guessing-game
+
+# 3. Compile
+javac GuessGame.java
+
+# 4. Play!
+java GuessGame
+
+
+
+Built With:
+Java
+
+Author
+Made by Sazid
